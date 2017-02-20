@@ -1,0 +1,2 @@
+# mazovia
+Python 'mazovia' Codec
